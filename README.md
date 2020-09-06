@@ -11,4 +11,4 @@
 
 
 
-### Demonstration of a simple music player using Javascript
+### Demonstration of a simple music player using Javascript :notes: :loud_sound:
